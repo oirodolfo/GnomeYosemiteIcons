@@ -30,20 +30,6 @@ Some programs aren't included in Hardcode Fixer.
 
    Replace "/usr/share/icons/slingscold.png" with "slingscold"
 
-Icon Config
-===============
-
-** NOTE: ** This is not anywhere near finished.  You can't use it currently.  Sorry :(
-
-You can configure the icon pack by typing into a terminal
-
-    ~/.icons/GnomeYosemiteIcons-master/config.sh
-
-You may be missing some required libraries in order to run this config tool.
-Just "sudo apt-get", "yum install", etc.. them.
-
-If that doesn't work, you'll have to google it.  I can't really help you with that, sorry.
-
 Credits
 =========
 * File-Roller icon inspired by [Dr. Slash's Unarchiver icon](https://github.com/dr-slash/icons-flat-osx/blob/master/Applications/The-Unarchiver.svg "From the "Icons-Flat-Osx" github repository")
