@@ -1,0 +1,4 @@
+#!/bin/sh
+cd Source\ Files/scalable/apps/
+ln -s $1 $2
+cd ../../../

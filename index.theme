@@ -1,85 +1,58 @@
 [Icon Theme]
-Name=Yosemite Icons
-Comment=An icon pack to make you second guess if you're actually on linux!
+Name=Lollicons
+Comment=A Linux icon theme to match Android 5 (Lollipop).
 
-Inherits=Numix-Circle-Light
-
-Example=directory-x-normal
+Inherits=GnomeYosemiteIcons
 
 # Directory list
-Directories=GnomeYosemiteIcons/16x16/actions,GnomeYosemiteIcons/16x16/apps,GnomeYosemiteIcons/16x16/categories,GnomeYosemiteIcons/16x16/devices,GnomeYosemiteIcons/16x16/emblems,GnomeYosemiteIcons/16x16/mimetypes,GnomeYosemiteIcons/16x16/places,GnomeYosemiteIcons/16x16/status,GnomeYosemiteIcons/22x22/actions,GnomeYosemiteIcons/22x22/apps,GnomeYosemiteIcons/22x22/categories,GnomeYosemiteIcons/22x22/devices,GnomeYosemiteIcons/22x22/emblems,GnomeYosemiteIcons/22x22/mimetypes,GnomeYosemiteIcons/22x22/places,GnomeYosemiteIcons/22x22/status,GnomeYosemiteIcons/24x24/actions,GnomeYosemiteIcons/24x24/apps,GnomeYosemiteIcons/24x24/categories,GnomeYosemiteIcons/24x24/devices,GnomeYosemiteIcons/24x24/emblems,GnomeYosemiteIcons/24x24/mimetypes,GnomeYosemiteIcons/24x24/places,GnomeYosemiteIcons/24x24/status,GnomeYosemiteIcons/32x32/actions,GnomeYosemiteIcons/32x32/apps,GnomeYosemiteIcons/32x32/categories,GnomeYosemiteIcons/32x32/devices,GnomeYosemiteIcons/32x32/emblems,GnomeYosemiteIcons/32x32/mimetypes,GnomeYosemiteIcons/32x32/places,GnomeYosemiteIcons/32x32/status,GnomeYosemiteIcons/48x48/actions,GnomeYosemiteIcons/48x48/apps,GnomeYosemiteIcons/48x48/categories,GnomeYosemiteIcons/48x48/devices,GnomeYosemiteIcons/48x48/emblems,GnomeYosemiteIcons/48x48/mimetypes,GnomeYosemiteIcons/48x48/places,GnomeYosemiteIcons/48x48/status,GnomeYosemiteIcons/64x64/actions,GnomeYosemiteIcons/64x64/apps,GnomeYosemiteIcons/64x64/categories,GnomeYosemiteIcons/64x64/devices,GnomeYosemiteIcons/64x64/emblems,GnomeYosemiteIcons/64x64/mimetypes,GnomeYosemiteIcons/64x64/places,GnomeYosemiteIcons/64x64/status,GnomeYosemiteIcons/96x96/actions,GnomeYosemiteIcons/96x96/apps,GnomeYosemiteIcons/96x96/categories,GnomeYosemiteIcons/96x96/devices,GnomeYosemiteIcons/96x96/emblems,GnomeYosemiteIcons/96x96/mimetypes,GnomeYosemiteIcons/96x96/places,GnomeYosemiteIcons/96x96/status,GnomeYosemiteIcons/128x128/actions,GnomeYosemiteIcons/128x128/apps,GnomeYosemiteIcons/128x128/categories,GnomeYosemiteIcons/128x128/devices,GnomeYosemiteIcons/128x128/emblems,GnomeYosemiteIcons/128x128/mimetypes,GnomeYosemiteIcons/128x128/places,GnomeYosemiteIcons/128x128/status,GnomeYosemiteIcons/256x256/actions,GnomeYosemiteIcons/256x256/apps,GnomeYosemiteIcons/256x256/categories,GnomeYosemiteIcons/256x256/devices,GnomeYosemiteIcons/256x256/emblems,GnomeYosemiteIcons/256x256/mimetypes,GnomeYosemiteIcons/256x256/places,GnomeYosemiteIcons/256x256/status,GnomeYosemiteIcons/scalable/actions,GnomeYosemiteIcons/scalable/apps,GnomeYosemiteIcons/scalable/categories,GnomeYosemiteIcons/scalable/devices,GnomeYosemiteIcons/scalable/emblems,GnomeYosemiteIcons/scalable/mimetypes,GnomeYosemiteIcons/scalable/places,GnomeYosemiteIcons/scalable/status
-
-[GnomeYosemiteIcons/48x48/apps]
-Size=48
-Context=Applications
-Type=Fixed
-
-[GnomeYosemiteIcons/scalable/apps]
-Size=16
-Context=Applications
-MinSize=8
-MaxSize=512
-Type=Scalable
-
-[GnomeYosemiteIcons/48x48/places]
-Size=48
-Context=Places
-Type=Fixed
-
-[GnomeYosemiteIcons/scalable/places]
-Size=16
-Context=Places
-MinSize=8
-MaxSize=512
-Type=Scalable
-
-[GnomeYosemiteIcons/48x48/actions]
-Size=48
-Context=Actions
-Type=Fixed
-
-[GnomeYosemiteIcons/scalable/actions]
-Size=16
-Context=Actions
-MinSize=8
-MaxSize=512
-Type=Scalable
-
+Directories=Lollicons/16x16/actions,Lollicons/16x16/apps,Lollicons/16x16/categories,Lollicons/16x16/devices,Lollicons/16x16/emblems,Lollicons/16x16/mimetypes,Lollicons/16x16/places,Lollicons/16x16/status,Lollicons/22x22/actions,Lollicons/22x22/apps,Lollicons/22x22/categories,Lollicons/22x22/devices,Lollicons/22x22/emblems,Lollicons/22x22/mimetypes,Lollicons/22x22/places,Lollicons/22x22/status,Lollicons/24x24/actions,Lollicons/24x24/apps,Lollicons/24x24/categories,Lollicons/24x24/devices,Lollicons/24x24/emblems,Lollicons/24x24/mimetypes,Lollicons/24x24/places,Lollicons/24x24/status,Lollicons/32x32/actions,Lollicons/32x32/apps,Lollicons/32x32/categories,Lollicons/32x32/devices,Lollicons/32x32/emblems,Lollicons/32x32/mimetypes,Lollicons/32x32/places,Lollicons/32x32/status,Lollicons/48x48/actions,Lollicons/48x48/apps,Lollicons/48x48/categories,Lollicons/48x48/devices,Lollicons/48x48/emblems,Lollicons/48x48/mimetypes,Lollicons/48x48/places,Lollicons/48x48/status,Lollicons/64x64/actions,Lollicons/64x64/apps,Lollicons/64x64/categories,Lollicons/64x64/devices,Lollicons/64x64/emblems,Lollicons/64x64/mimetypes,Lollicons/64x64/places,Lollicons/64x64/status,Lollicons/96x96/actions,Lollicons/96x96/apps,Lollicons/96x96/categories,Lollicons/96x96/devices,Lollicons/96x96/emblems,Lollicons/96x96/mimetypes,Lollicons/96x96/places,Lollicons/96x96/status,Lollicons/128x128/actions,Lollicons/128x128/apps,Lollicons/128x128/categories,Lollicons/128x128/devices,Lollicons/128x128/emblems,Lollicons/128x128/mimetypes,Lollicons/128x128/places,Lollicons/128x128/status,Lollicons/256x256/actions,Lollicons/256x256/apps,Lollicons/256x256/categories,Lollicons/256x256/devices,Lollicons/256x256/emblems,Lollicons/256x256/mimetypes,Lollicons/256x256/places,Lollicons/256x256/status,Lollicons/scalable/actions,Lollicons/scalable/apps,Lollicons/scalable/categories,Lollicons/scalable/devices,Lollicons/scalable/emblems,Lollicons/scalable/mimetypes,Lollicons/scalable/places,Lollicons/scalable/status
 
 # Actions
-[GnomeYosemiteIcons/16x16/actions]
+[Lollicons/16x16/actions]
 Context=Actions
 Size=16
 Type=Fixed
 
-[GnomeYosemiteIcons/24x24/actions]
+[Lollicons/24x24/actions]
 Context=Actions
 Size=24
 Type=Fixed
 
-[GnomeYosemiteIcons/32x32/actions]
+[Lollicons/32x32/actions]
 Context=Actions
 Size=32
 Type=Fixed
 
-[GnomeYosemiteIcons/64x64/actions]
+[Lollicons/48x48/actions]
+Context=Actions
+Size=48
+Type=Fixed
+
+[Lollicons/64x64/actions]
 Context=Actions
 Size=64
 Type=Fixed
 
-[GnomeYosemiteIcons/96x96/actions]
+[Lollicons/96x96/actions]
 Context=Actions
 Size=96
 Type=Fixed
 
-[GnomeYosemiteIcons/192x192/actions]
+[Lollicons/192x192/actions]
 Context=Actions
 Size=192
 MinSize=72
 MaxSize=192
 Type=Scalable
 
-[GnomeYosemiteIcons/symbolic/actions]
+[Lollicons/scalable/actions]
+Size=16
+Context=Actions
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[Lollicons/symbolic/actions]
 Context=Actions
 Size=16
 MinSize=16
@@ -87,46 +60,58 @@ MaxSize=512
 Type=Scalable
 
 # Animations
-[GnomeYosemiteIcons/24x24/animations]
+[Lollicons/24x24/animations]
 Context=Animations
 Size=24
 Type=Fixed
 
 # Applications
 
-[GnomeYosemiteIcons/16x16/apps]
+[Lollicons/16x16/apps]
 Context=Applications
 Size=16
 Type=Fixed
 
-[GnomeYosemiteIcons/24x24/apps]
+[Lollicons/24x24/apps]
 Context=Applications
 Size=24
 Type=Fixed
 
-[GnomeYosemiteIcons/32x32/apps]
+[Lollicons/32x32/apps]
 Context=Applications
 Size=32
 Type=Fixed
 
-[GnomeYosemiteIcons/64x64/apps]
+[Lollicons/48x48/apps]
+Context=Applications
+Size=48
+Type=Fixed
+
+[Lollicons/64x64/apps]
 Context=Applications
 Size=64
 Type=Fixed
 
-[GnomeYosemiteIcons/96x96/apps]
+[Lollicons/96x96/apps]
 Context=Applications
 Size=96
 Type=Fixed
 
-[GnomeYosemiteIcons/192x192/apps]
+[Lollicons/192x192/apps]
 Context=Applications
 Size=192
 MinSize=72
 MaxSize=192
 Type=Scalable
 
-[GnomeYosemiteIcons/symbolic/apps]
+[Lollicons/scalable/apps]
+Size=16
+Context=Applications
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[Lollicons/symbolic/apps]
 Context=Applications
 Size=16
 MinSize=16
@@ -136,44 +121,44 @@ Type=Scalable
 
 # Categories
 
-[GnomeYosemiteIcons/16x16/categories]
+[Lollicons/16x16/categories]
 Context=Categories
 Size=16
 Type=Fixed
 
-[GnomeYosemiteIcons/24x24/categories]
+[Lollicons/24x24/categories]
 Context=Categories
 Size=24
 Type=Fixed
 
-[GnomeYosemiteIcons/32x32/categories]
+[Lollicons/32x32/categories]
 Context=Categories
 Size=32
 Type=Fixed
 
-[GnomeYosemiteIcons/48x48/categories]
+[Lollicons/48x48/categories]
 Context=Categories
 Size=48
 Type=Fixed
 
-[GnomeYosemiteIcons/64x64/categories]
+[Lollicons/64x64/categories]
 Context=Categories
 Size=64
 Type=Fixed
 
-[GnomeYosemiteIcons/96x96/categories]
+[Lollicons/96x96/categories]
 Context=Categories
 Size=96
 Type=Fixed
 
-[GnomeYosemiteIcons/192x192/categories]
+[Lollicons/192x192/categories]
 Context=Categories
 Size=192
 MinSize=72
 MaxSize=192
 Type=Scalable
 
-[GnomeYosemiteIcons/symbolic/categories]
+[Lollicons/symbolic/categories]
 Context=Categories
 Size=16
 MinSize=16
@@ -182,44 +167,44 @@ Type=Scalable
 
 # Devices
 
-[GnomeYosemiteIcons/16x16/devices]
+[Lollicons/16x16/devices]
 Context=Devices
 Size=16
 Type=Fixed
 
-[GnomeYosemiteIcons/24x24/devices]
+[Lollicons/24x24/devices]
 Context=Devices
 Size=24
 Type=Fixed
 
-[GnomeYosemiteIcons/32x32/devices]
+[Lollicons/32x32/devices]
 Context=Devices
 Size=32
 Type=Fixed
 
-[GnomeYosemiteIcons/48x48/devices]
+[Lollicons/48x48/devices]
 Context=Devices
 Size=48
 Type=Fixed
 
-[GnomeYosemiteIcons/64x64/devices]
+[Lollicons/64x64/devices]
 Context=Devices
 Size=64
 Type=Fixed
 
-[GnomeYosemiteIcons/96x96/devices]
+[Lollicons/96x96/devices]
 Context=Devices
 Size=96
 Type=Fixed
 
-[GnomeYosemiteIcons/192x192/devices]
+[Lollicons/192x192/devices]
 Context=Devices
 Size=192
 MinSize=72
 MaxSize=192
 Type=Scalable
 
-[GnomeYosemiteIcons/symbolic/devices]
+[Lollicons/symbolic/devices]
 Context=Devices
 Size=16
 MinSize=16
@@ -228,44 +213,44 @@ Type=Scalable
 
 # Emblems
 
-[GnomeYosemiteIcons/16x16/emblems]
+[Lollicons/16x16/emblems]
 Context=Emblems
 Size=16
 Type=Fixed
 
-[GnomeYosemiteIcons/24x24/emblems]
+[Lollicons/24x24/emblems]
 Context=Emblems
 Size=24
 Type=Fixed
 
-[GnomeYosemiteIcons/32x32/emblems]
+[Lollicons/32x32/emblems]
 Context=Emblems
 Size=32
 Type=Fixed
 
-[GnomeYosemiteIcons/48x48/emblems]
+[Lollicons/48x48/emblems]
 Context=Emblems
 Size=48
 Type=Fixed
 
-[GnomeYosemiteIcons/64x64/emblems]
+[Lollicons/64x64/emblems]
 Context=Emblems
 Size=48
 Type=Fixed
 
-[GnomeYosemiteIcons/96x96/emblems]
+[Lollicons/96x96/emblems]
 Context=Emblems
 Size=96
 Type=Fixed
 
-[GnomeYosemiteIcons/192x192/emblems]
+[Lollicons/192x192/emblems]
 Context=Emblems
 Size=192
 MinSize=72
 MaxSize=192
 Type=Scalable
 
-[GnomeYosemiteIcons/symbolic/emblems]
+[Lollicons/symbolic/emblems]
 Context=Emblems
 Size=16
 MinSize=16
@@ -274,44 +259,44 @@ Type=Scalable
 
 # Emotes
 
-[GnomeYosemiteIcons/16x16/emotes]
+[Lollicons/16x16/emotes]
 Context=Emotes
 Size=16
 Type=Fixed
 
-[GnomeYosemiteIcons/24x24/emotes]
+[Lollicons/24x24/emotes]
 Context=Emotes
 Size=24
 Type=Fixed
 
-[GnomeYosemiteIcons/32x32/emotes]
+[Lollicons/32x32/emotes]
 Context=Emotes
 Size=32
 Type=Fixed
 
-[GnomeYosemiteIcons/48x48/emotes]
+[Lollicons/48x48/emotes]
 Context=Emotes
 Size=48
 Type=Fixed
 
-[GnomeYosemiteIcons/64x64/emotes]
+[Lollicons/64x64/emotes]
 Context=Emotes
 Size=64
 Type=Fixed
 
-[GnomeYosemiteIcons/96x96/emotes]
+[Lollicons/96x96/emotes]
 Context=Emotes
 Size=96
 Type=Fixed
 
-[GnomeYosemiteIcons/192x192/emotes]
+[Lollicons/192x192/emotes]
 Context=Emotes
 Size=192
 MinSize=72
 MaxSize=192
 Type=Scalable
 
-[GnomeYosemiteIcons/symbolic/emotes]
+[Lollicons/symbolic/emotes]
 Context=Emotes
 Size=16
 MinSize=16
@@ -320,44 +305,44 @@ Type=Scalable
 
 # MimeTypes
 
-[GnomeYosemiteIcons/16x16/mimetypes]
+[Lollicons/16x16/mimetypes]
 Context=MimeTypes
 Size=16
 Type=Fixed
 
-[GnomeYosemiteIcons/24x24/mimetypes]
+[Lollicons/24x24/mimetypes]
 Context=MimeTypes
 Size=24
 Type=Fixed
 
-[GnomeYosemiteIcons/32x32/mimetypes]
+[Lollicons/32x32/mimetypes]
 Context=MimeTypes
 Size=32
 Type=Fixed
 
-[GnomeYosemiteIcons/48x48/mimetypes]
+[Lollicons/48x48/mimetypes]
 Context=MimeTypes
 Size=48
 Type=Fixed
 
-[GnomeYosemiteIcons/64x64/mimetypes]
+[Lollicons/64x64/mimetypes]
 Context=MimeTypes
 Size=64
 Type=Fixed
 
-[GnomeYosemiteIcons/96x96/mimetypes]
+[Lollicons/96x96/mimetypes]
 Context=MimeTypes
 Size=96
 Type=Fixed
 
-[GnomeYosemiteIcons/192x192/mimetypes]
+[Lollicons/192x192/mimetypes]
 Context=MimeTypes
 Size=192
 MinSize=72
 MaxSize=192
 Type=Scalable
 
-[GnomeYosemiteIcons/symbolic/mimetypes]
+[Lollicons/symbolic/mimetypes]
 Context=Mimetypes
 Size=16
 MinSize=16
@@ -366,7 +351,7 @@ Type=Scalable
 
 # Notifications
 
-[GnomeYosemiteIcons/48x48/notifications]
+[Lollicons/48x48/notifications]
 Context=Status
 Size=48
 Type=Fixed
@@ -374,12 +359,12 @@ Type=Fixed
 
 # Panel
 
-[GnomeYosemiteIcons/16x16/panel]
+[Lollicons/16x16/panel]
 Context=Status
 Size=16
 Type=Fixed
 
-[GnomeYosemiteIcons/24x24/panel]
+[Lollicons/24x24/panel]
 Context=Status
 Size=24
 Type=Fixed
@@ -387,39 +372,51 @@ Type=Fixed
 
 # Places
 
-[GnomeYosemiteIcons/16x16/places]
+[Lollicons/16x16/places]
 Context=Places
 Size=16
 Type=Fixed
 
-[GnomeYosemiteIcons/24x24/places]
+[Lollicons/24x24/places]
 Context=Places
 Size=24
 Type=Fixed
 
-[GnomeYosemiteIcons/32x32/places]
+[Lollicons/32x32/places]
 Context=Places
 Size=32
 Type=Fixed
 
-[GnomeYosemiteIcons/64x64/places]
+[Lollicons/48x48/places]
+Context=Places
+Size=48
+Type=Fixed
+
+[Lollicons/64x64/places]
 Context=Places
 Size=64
 Type=Fixed
 
-[GnomeYosemiteIcons/96x96/places]
+[Lollicons/96x96/places]
 Context=Places
 Size=96
 Type=Fixed
 
-[GnomeYosemiteIcons/192x192/places]
+[Lollicons/192x192/places]
 Context=Places
 Size=192
 MinSize=72
 MaxSize=192
 Type=Scalable
 
-[GnomeYosemiteIcons/symbolic/places]
+[Lollicons/scalable/places]
+Size=16
+Context=Places
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[Lollicons/symbolic/places]
 Context=Places
 Size=16
 MinSize=16
@@ -428,44 +425,44 @@ Type=Scalable
 
 # Status
 
-[GnomeYosemiteIcons/16x16/status]
+[Lollicons/16x16/status]
 Context=Status
 Size=16
 Type=Fixed
 
-[GnomeYosemiteIcons/24x24/status]
+[Lollicons/24x24/status]
 Context=Status
 Size=24
 Type=Fixed
 
-[GnomeYosemiteIcons/32x32/status]
+[Lollicons/32x32/status]
 Context=Status
 Size=32
 Type=Fixed
 
-[GnomeYosemiteIcons/48x48/status]
+[Lollicons/48x48/status]
 Context=Status
 Size=48
 Type=Fixed
 
-[GnomeYosemiteIcons/64x64/status]
+[Lollicons/64x64/status]
 Context=Status
 Size=64
 Type=Fixed
 
-[GnomeYosemiteIcons/96x96/status]
+[Lollicons/96x96/status]
 Context=Status
 Size=96
 Type=Fixed
 
-[GnomeYosemiteIcons/192x192/status]
+[Lollicons/192x192/status]
 Context=Status
 Size=192
 MinSize=72
 MaxSize=192
 Type=Scalable
 
-[GnomeYosemiteIcons/symbolic/status]
+[Lollicons/symbolic/status]
 Context=Status
 Size=16
 MinSize=16
