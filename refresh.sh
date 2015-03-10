@@ -18,8 +18,8 @@ if [ -d "/usr/share/icons/Numix-Circle-Light/48x48/apps/" ]; then
   fi
 fi
 
-rm -r "Lollicons" >/dev/null 2>&1
-mkdir Lollicons
+rm -r "GnomeYosemiteIcons" >/dev/null 2>&1
+mkdir GnomeYosemiteIcons
 for size in "${sizes[@]}"; do
-	mv "$size" Lollicons/
+	mv "$size" GnomeYosemiteIcons/
 done
